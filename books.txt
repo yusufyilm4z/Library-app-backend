@@ -1,0 +1,14 @@
+1000000000,Introduction to Computer Science,Author0,False
+1000000001,General Math,Author1,True
+1000000002,General Physics,Author2,False
+1000000003,History of Computer Science,Author3,False
+1000000004,Python in a Nutshell,Author4,False
+1000000005,General Chemistry,Author5,True
+1000000006,How to Become Successful at Calculus,Author6,False
+1000000007,Programming Fundamentals,Author7,False
+1000000008,How to Become Decent Programmer,Author8,False
+1000000009,C++ in a Nutshell,Author9,False
+1000000010,Web Programming with JavaScript,Nameless Author,True
+1000000011,Basics of Machine Learning 9th Edition,Another Nameless Author,False
+1221249430,test book,test author,False
+1111111110,lastTest book,lastTest author,True
